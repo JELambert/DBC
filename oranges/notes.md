@@ -82,4 +82,43 @@
 - The auctioning strategy is really interesting - making it timed before the auction ends. This is the first I've heard of this strategy, whether a candle or timer being used. I've always seen it to be just go to the highest bidder and you get like 5-10 seconds to up-bid.
 
 ### Random asides:
-- One time I went to a ranch in inland FL the guy had his dogs trained to freak the fuck out at rattlesnakes. I don’t know why people think guns are good
+- One time I went to a ranch in inland FL the guy had his dogs trained to freak out at rattlesnakes. I don’t know why people think guns are good at killing snakes. Seems like this guy had it figured out with the shovel.
+- My Dad told me I shouldn't root for Syracuse because they were called the "Orangemen" and that was an anti-Catholic thing to do, but I was 10 and I liked Carmelo. 
+- Wild they've been adding dye to stuff for so long—I just had a conversation with Rachel about how food dye could be a cause of early puberty and literally making Americans shorter. I’m not sure why they would need to add dye and wax to these products, and I didn’t realized they had been doing it for so long.
+- I wish we could collectively just become cool with ugly looking food. Reminds me of eggs which are washed, which makes it necessary to cool them in transportation and storage. Unwashed eggs are good for more than a year in room temp if handled rightly.
+- Orange peels don't need the same extreme level of washing! The peel is on the outside! But once someone does it, people will just buy the cleaner one.
+- I met a guy at a bike ride that wrote a book inspired by this book titled "Meditations on Killing and Eating" about the meat industry, and the way Chapter 5 ended was the first time I really thought about that. Chapter 5 was really about how the oranges get processed and sent to consumers - in all its ugly ways.
+
+## Chapter 6: Degrees Brix
+
+**Summary:** This is a deep dive into the science and economics underpinning the orange juice industry, especially as it pertains to measuring the sweetness and quality of the juice. We also read about the intricate balance between science, technology, economics, and consumer preferences in the vibrant world of orange juice, offering readers a comprehensive look at the beverage that has become a breakfast staple for many.
+
+### Interesting details:
+- The Brix scale measures sugar content in liquids and becomes very important with the rise of juice concentrate.
+- Saw the transformation of the goal to be good oranges to “pounds solid” or “pounds of sugar.”  
+- Technological innovations helped spur the concentrate industry and allowed for more of the poorer quality oranges to be used.
+- The whole concentration process is interesting.
+
+### Comments:
+- This guy going on and on about being from the whole state of Florida to being "born in an alligator swamp" actually being from Peoria, IL is like *chef's kiss* perfect.
+- A lot of Big Ag and corruption in this chapter, interesting to learn some details about that from that time. 
+- They used to fine people for adding sugar to orange juice?! Where did we go wrong?
+- This MacDowell character seems like Nucky Thompson (Boardwalk Empire) of Citrus.
+- Maybe Americans are uniquely addicted to sugar.
+- "We are growing chemicals now, not oranges" (page 136) is some dystopian shit.
+- The whole chapter is pretty sad. Linking all the by-products of this industry with other shitty industries like rubber, cattle feed, oil, etc.
+- Naming the town with the plant “Plant City” is a bit on the nose.
+- This chapter was a detailed description of how we got to a point where everyone drinks shitty sugary orange juice and a lot of people think it’s actually good for them.
+
+## Chapter 7: Orange Baron
+
+**Summary:** This chapter shifts the focus to the individuals and families who've built empires within the orange industry, specifically highlighting the influential role of Ben Hill Griffin, Jr., a prominent figure in the world of orange cultivation in Florida.
+
+### Interesting details:
+- This was just kind of a story about a guy. Started small, got bigger and pretty powerful. 
+
+### Comments:
+- Frostproof, FL is close to where my parents have a farm and my mom stays in the winter, Sebring, which is mentioned when talking about football scores. They call the farm “Scrub Pine” which also made an appearance. Must be a lot of them.
+- Wild that this dude stuffed his whole bull 
+- Imagine leaving to sell oranges and coming back with a load of beans that no one wanted.
+- Some of this reminded me of dairy farms. Super remote areas that need a lot of people, so there are these random villages that pop up but nothing like stores or schools to support them.
