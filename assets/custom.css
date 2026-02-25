@@ -1,0 +1,62 @@
+/* DBC Dashboard - Custom CSS Overrides */
+
+/* Global font */
+html, body, [class*="css"] {
+    font-family: Georgia, serif;
+}
+
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+    background-color: #16213E;
+    border-right: 1px solid #722F37;
+}
+
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p {
+    color: #FAFAFA;
+}
+
+/* Header styling */
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #C9A96E;
+}
+
+/* Selectbox styling */
+[data-testid="stSelectbox"] label {
+    color: #C9A96E;
+    font-family: Georgia, serif;
+}
+
+/* Expander styling */
+[data-testid="stExpander"] {
+    background-color: #16213E;
+    border: 1px solid rgba(114, 47, 55, 0.3);
+    border-radius: 8px;
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: #16213E;
+    border-radius: 8px 8px 0 0;
+    color: #FAFAFA;
+    font-family: Georgia, serif;
+}
+
+.stTabs [aria-selected="true"] {
+    background-color: #722F37;
+}
+
+/* Divider */
+hr {
+    border-color: rgba(114, 47, 55, 0.3);
+}
+
+/* Dataframe styling */
+[data-testid="stDataFrame"] {
+    border: 1px solid rgba(114, 47, 55, 0.2);
+    border-radius: 8px;
+}
