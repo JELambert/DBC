@@ -1,0 +1,40 @@
+
+- agriculture
+  - N fixation
+- nitrates
+  - Saltpeter / guano
+  - Iquique labor movement
+  - Chile vs Peru
+- NH3 synthesis
+  - challenges
+  - Ostwald + Nernst vs Haber
+  - randomly picking rocks as catalysts
+- Haber
+  - BASF
+    - dye company
+  - institute in Dahlem
+    - Clara Haber suicide (shit husband)
+  - German identity
+    - Einstein
+  - gold from seawater
+  
+- Bosch
+  - NH3 scale up
+  - drinking w/ the boys + astronomy + weird hobbies
+- synthetic gasoline
+  - Fischer-Tropsch
+  - DuPont / Standard Oil
+  - oil discoveries
+
+- weapons
+  - bombs, gunpowder, chlorine
+- Hitler
+  - crazy tirades (Max Planck)
+
+- China
+
+- random
+  - GOAT Chemical Engineers
+  - NH3 economy
+    - Green ammonia in Minnesota
+    - H2
